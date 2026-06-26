@@ -1,1 +1,1 @@
-Git is very useful.
+GitHub is very useful.
