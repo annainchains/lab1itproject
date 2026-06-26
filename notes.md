@@ -1,1 +1,1 @@
-Git is very useful.
+Git helps developers.
